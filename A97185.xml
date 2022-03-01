@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy, on the timely death of John Warner Late Lord Maior of the Citie of London.</title>
+            <author>Warner, John, junior.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97185</idno>
+            <idno type="STC">Wing W913</idno>
+            <idno type="STC">Thomason 669.f.13[43]</idno>
+            <idno type="STC">ESTC R211068</idno>
+            <idno type="EEBO-CITATION">99869804</idno>
+            <idno type="PROQUEST">99869804</idno>
+            <idno type="VID">162939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162939)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy, on the timely death of John Warner Late Lord Maior of the Citie of London.</title>
+                  <author>Warner, John, junior.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end with pseudonym: Iohn Warner, junior.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse - "Take in your hornes, and make no more adoe,".</note>
+                  <note>Annotation on Thomason copy: "Nou: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warner, John, --  Sir, d. 1648 --  Poetry.</term>
+               <term>Elegiac poetry, English.</term>
+               <term>London (England) --  History --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162939:1" rendition="simple:additions"/>
+            <head>An Elegy, ON THE TIMELY DEATH of <hi>John Warner.</hi> Late LORD MAIOR of the Citie of <hi>LONDON.</hi>
+            </head>
+            <div type="part">
+               <head>The Invitation.</head>
+               <lg>
+                  <l>TAke in your Hornes, and make no more adoe,</l>
+                  <l>Shut up your ſhops, and to's burying goe</l>
+                  <l>Kinde Cozens, pray, ſince your <hi>Bell-weather's</hi> dead,</l>
+                  <l>Advance your heads, and ſee him Buryed:</l>
+                  <l>Your Wives may come; or with their <hi>Fore-Men</hi> ſtay;</l>
+                  <l>When th' Catt's abroad, the Mice may better play.</l>
+                  <l>Here is no want of Sugar-plumbes, nor Sack:</l>
+                  <l>Nor need you here to cry, <hi>What doe you lack?</hi>
+                  </l>
+                  <l>Gentlemen, pray ſit downe; Liſten to mee,</l>
+                  <l>And whilſt y'are ſerv'd, Ile read his <hi>Elegy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>His Elegy.</head>
+               <lg>
+                  <l>MOſt cruell Death! Art thou paſt ſhame, or feare,</l>
+                  <l>That durſt Arreſt the Cities doughty Mayre?</l>
+                  <l>Whoſe very Horſe did carry in his face</l>
+                  <l>A preſence able to controul thy Mace.</l>
+                  <l>Hee's dead; hee's dead, that could appeaſe all ſtir,</l>
+                  <l>Hee's dead! the Cities truſty WARRENER;</l>
+                  <l>He that laſt Chriſt-maſs day, with might and force,</l>
+                  <l>And Zeal, was hurried on a Hobby-horſe</l>
+                  <l>To pull downe Holly and Ivie: 'tis hee</l>
+                  <l>That caus'd a man there baſely kill'd to be,</l>
+                  <l>Now kill'd himſelf; and <hi>bloody</hi> here doth lie,</l>
+                  <l>The fatall Object of each Teare-leſs eye.</l>
+               </lg>
+               <lg>
+                  <l>Dead now he is, whoſe Wiſedome could not rule,</l>
+                  <l>The <hi>Citie</hi> better then he did his <hi>Mule,</hi>
+                  </l>
+                  <l>Who like a Pamper'd Jade of <hi>Aſia,</hi>
+                  </l>
+                  <l>Turn'd head, and ran with Mr. Mayre away.</l>
+               </lg>
+               <lg>
+                  <l>Stop, ſtop I pray good People, cryes the Mayre:</l>
+                  <l>Run horſe, quoth the Boyes, he hates th' Common-Pray'r;</l>
+                  <l>So back he forceth home his zealous Maſter,</l>
+                  <l>Who by the way had a moſt fowl diſaſter—</l>
+                  <l>But when he lighted (ſtop your noſe I pray)</l>
+                  <l>Foh, quoth the Varlets, what a ſmell's to day?</l>
+                  <l>Not of Roaſt-meat, nor bak'd; for at a word,</l>
+                  <l>Their Chriſtmaſſe-dinner was not worth a T—</l>
+                  <l>Each Segeant ſtaring in his fellows face,</l>
+                  <l>Was faine to Reſt his Noſe with his owne Mace,</l>
+                  <l>To know from whence the ſcent came, all did wiſh,</l>
+                  <l>At laſt they found hee'd <hi>Adkiniz'd</hi> his Breech;</l>
+                  <l>They all agreed, drew Lotts, and't fell to <hi>Trypes,</hi>
+                  </l>
+                  <l>Who has him in, and the old Shit-breech wipes.</l>
+               </lg>
+               <lg>
+                  <l>Not long after, for to ſhew his Zeal</l>
+                  <l>For the CAUSE, the State, Kirk, and Common-weale,</l>
+                  <l>Into <hi>Moore-fields</hi> he goes on the Lords-Day</l>
+                  <l>To keep the Children from their harmleſs play;</l>
+                  <l>When he came there, his Chain he did off pull,</l>
+                  <l>And look'd more fierce then a Colecheſter-Bull:</l>
+                  <l>The Boyes began to run, my Lord runs after,</l>
+                  <l>(I ready was to crack for very laughter;)</l>
+                  <l>At laſt they compaſs'd him within a ring,</l>
+                  <l>Hollow'd, and cry'd, This Knave will have no King:</l>
+                  <l>Lay hold on them, quoth he, away they run,</l>
+                  <l>My Lord returns, and's Sun-dayes work is done.</l>
+               </lg>
+               <lg>
+                  <l>But when the profane Bells of <hi>Bow</hi> did ring,</l>
+                  <l>Laſt Coronation day, for the KING,</l>
+                  <l>His Honor ſent in all the haſte to know</l>
+                  <l>What made thoſe jangling Tingle-tangles goe?</l>
+                  <l>They ſent him word, that he might come and ſee,</l>
+                  <l>For better men were ringing there then hee;</l>
+                  <l>He bids them ceaſe; they bid him ceaſe his hopes,</l>
+                  <l>Or elſe they'd hang his Lord in the Bell-roapes:</l>
+                  <l>My Lord went home, full loath to make a fray,</l>
+                  <l>And took a Purge in honor of the Day.</l>
+               </lg>
+               <lg>
+                  <l>But when he met with Doctor <hi>Kings</hi> black Gowne,</l>
+                  <l>Brethren, cryes hee, now Humane Learning's downe:</l>
+                  <l>For this ſame Popiſh Veſtment that you ſee,</l>
+                  <l>Was lately taken from a boy by mee,</l>
+                  <l>It was to <hi>Roode-</hi>Church going with intent</l>
+                  <l>To break the Parliaments Commandement:</l>
+                  <l>Come hither one of you, and put it on;</l>
+                  <l>That we may act the Whore of <hi>Babylon;</hi>
+                  </l>
+                  <l>Fetch the foul Shirt I took the laſt Lords Day,</l>
+                  <l>(Carrying to waſhing) from a Prentice Boy,</l>
+                  <l>And put it on, that ſo we may defie</l>
+                  <l>That profane Smock of their Idolatry.</l>
+               </lg>
+               <lg>
+                  <l>Whilſt this was acting, in was brought one Drunk</l>
+                  <l>With Sheriff <hi>Bydes</hi> Ale; His HONOR ſaid he ſtunk</l>
+                  <l>Of baſe Tobacco: Sirrah, quoth he, pay</l>
+                  <l>Five Shillings; toth' Counter with him elſe; away.</l>
+               </lg>
+               <lg>
+                  <l>My Lord, (ſaith he) I'me of the Gentle-Craft,</l>
+                  <l>And ſcorne to take Tobacco that is naughr.</l>
+               </lg>
+               <lg>
+                  <l>Away with him, quoth he, Ile heare no more,</l>
+                  <l>So bids a Sergeant tàke him out of doore.</l>
+               </lg>
+               <lg>
+                  <l>But pray, my LORD, quoth he, heare me but ſpeake,</l>
+                  <l>I am ſo poore, I cannot chuſe but breake,</l>
+                  <l>Take but two payre of Shooes of me for it,</l>
+                  <l>(I make no doubt they they will your Honor fitt)</l>
+                  <l>And here is Six Pence more lies in my hand,</l>
+                  <l>By St. <hi>Hughes-</hi>Bones I ſweare, ſhall buy no land:</l>
+                  <l>Two pen'oth of your Honors beſt VARINUS,</l>
+                  <l>And two full pott of Sheriff <hi>Bides</hi> ſhall line us.</l>
+                  <l>All Partyes were content: away went hee,</l>
+                  <l>Fetch'd him his ſhooes, and ſo they did agree.</l>
+               </lg>
+               <lg>
+                  <l>By this Black-TOM is comming from th'Tower</l>
+                  <l>To viſite him, and tells him, that all Power</l>
+                  <l>Is plac'd in Him; commands him carefull be</l>
+                  <l>In the diſcharging of his Mayoralty:</l>
+               </lg>
+               <lg>
+                  <l>The ſimple Mayor preſently falls down,</l>
+                  <l>Worſhips, and ſayes, He well deſerves a Crown: <note place="margin">3Corn.</note>
+                  </l>
+                  <l>TOM bids him riſe, then ſtroakes him on the head,</l>
+                  <l>And inſtantly hee's to a Banquet led:</l>
+                  <l>King <hi>Nell</hi> came too, and did him ſo much grace,</l>
+                  <l>As for to teach him what belong'd to's Place:</l>
+                  <l>Saith he, The more to make thy foes to quake;</l>
+                  <l>On either ſide thy Gate Ile place a Drake:</l>
+                  <l>Bids him be carefull to ſuppreſs all thoſe</l>
+                  <l>That moov'd for Peace, ſuch were the States worſt foes.</l>
+                  <l>Feaſted they were with all Luxurious Fare,</l>
+                  <l>And all good things that the Saints Portions are.</l>
+               </lg>
+               <lg>
+                  <l>Now all departed, and the Banquet done,</l>
+                  <l>The luſtfull Major ſtrives to get a Sonne:</l>
+                  <l>Then up he ſtrides on <hi>Ruth</hi> his Chamber-maide,</l>
+                  <l>The Spirit moov'd her to be underlaide,</l>
+                  <l>Where they did fructifie, and got a Barne,</l>
+                  <l>So turnes her off her Living for to earne,</l>
+                  <l>The Wench thus bigge of a young Citie Heire,</l>
+                  <l>Went to her Friends; that to him ſoon repaire,</l>
+                  <l>Tells him how 'tis; Who could not it denie,</l>
+                  <l>But ſaid, in Truth Ile make amends, yea, verily:</l>
+                  <l>So the Old Fox ſent her a hundred Pound,</l>
+                  <l>To match her to a Brother that was Round,</l>
+                  <l>Which he provided of the Holy Race,</l>
+                  <l>And put him alſo in a Guild-Hall place.</l>
+               </lg>
+               <lg>
+                  <l>But now, alas, the Citie-boyes ſo fright him,</l>
+                  <l>That he was forc'd againe for to be—him:</l>
+                  <l>Unto the Tower then he Runs in haſte,</l>
+                  <l>Beſhitten up unto his very waſte;</l>
+                  <l>But all appeas'd, and quiet; Out comes hee,</l>
+                  <l>And vowes hee'l make the Citie bratts to flie.</l>
+               </lg>
+               <lg>
+                  <l>The Faſt-Day being next, away he goes</l>
+                  <l>Into <hi>Cheap-ſide,</hi> not caring what he does:</l>
+                  <l>An Apple-Woman there he ſeiz'd upon,</l>
+                  <l>And a Cake-Woman did his Zeal much wrong;</l>
+                  <l>He in a fury takes them all away;</l>
+                  <l>Apples and Cakes, quoth he, muſt Faſt and Pray,</l>
+                  <l>Unto the Counter then his HONOR ſent'em,</l>
+                  <l>Where they did lie a fortnight to repent'em.</l>
+               </lg>
+               <lg>
+                  <l>THeſe are the Acts adde Luſture to his Name,</l>
+                  <l>Fit to be written in the Rowl of Fame:</l>
+                  <l>Or be preſerv'd to all Poſterity,</l>
+                  <l>And each yeer mention'd in the Pagentry</l>
+                  <l>Of ſucceeding Mayors, to make ſport</l>
+                  <l>For the young Punyes of the Inns of Court.</l>
+               </lg>
+               <lg>
+                  <l>His Yeer concluded, to a very day,</l>
+                  <l>He left this life, and could no longer ſtay;</l>
+                  <l>Some ſay he had a Leaſe on't, and th'Devill</l>
+                  <l>Could ſuffer him no longer live in evill.</l>
+               </lg>
+               <lg>
+                  <l>Others doe ſay, 'cauſe he was never good,</l>
+                  <l>Or elſe becauſe he had ſhed Innocent Blood,</l>
+               </lg>
+               <lg>
+                  <l>He ſpit blood, piſt blood, ſhit blood, ſo dide hee,</l>
+                  <l>And made an end. So ſhall his Elegee.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>His EPITAPH.</head>
+               <lg>
+                  <l>HEre lies my Lord Major under this Stone,</l>
+                  <l>That laſt Bartholomew-fair, no Puppets would owne,</l>
+                  <l>But next Bartholomew-faire, who liveth to ſee,</l>
+                  <l>Shall view my Lord Mayor, a Puppet to bee,</l>
+                  <l>Which Sight ſhall for ever continue his <hi>FAME,</hi>
+                  </l>
+                  <l>That he may dye never, but here have a <hi>NAME.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <closer>
+                  <signed>Iohn Warner,</signed>
+junior.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Yeer. 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
